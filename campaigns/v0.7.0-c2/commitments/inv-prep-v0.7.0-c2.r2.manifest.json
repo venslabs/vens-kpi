@@ -1,0 +1,18 @@
+{
+  "aggregate": "2cbcd0e721622f304b95d807a0848acd50df127f7e61f72e69662c03ed08bc5d",
+  "files": {
+    "rules/draw.json": "d430f14450558fd6fd7f0dc806500b4c8ee27020d3b5afa710aab0a73c14d3f0",
+    "rules/inv-spec.json": "e87c5dda96bc9f6066fd0d6c2ea03886515c522f9d448757593e0996a57a0930",
+    "rules/paraphrase-rules.md": "15fe5b487fa1bbccb222295b53a5d5544502c0749c061f0b127593dd1cd50eba",
+    "rules/plants.json": "c8368064f71bc75f40613a48327c5df28cdf9815e89cb1c3c3d33f5bb2271852",
+    "rules/rubric.md": "b31e2ebe41d4fc6c3677c42976ff7fbe93769f42639bc6ce4d46d79ec7fe75d4",
+    "tests/test_inv.py": "65cc01a34ae97a3212d45b54dce73c442d750a3a65ad19f8e15acc9dc6c7617e",
+    "tools/inv_build.py": "859c31fa6b065eaa6fa4313b2215c509a48fb5e528abad817baf57b3aca9e1d0",
+    "tools/inv_draw.py": "3777131f89676a9d67b8935fd9ad1a783c9401db93d5a7213e7b092bec402210",
+    "tools/invlib.py": "622b8aba41a27190358a43e655431cc7c0057e2b178f379f784a140a19878a91",
+    "tools/paraphrase_check.py": "d5a9e6229b97cc616a5e91d8336ad4b6b548d5bfd52609beb8f2af3aadbd46cd",
+    "tools/rubric_screen.py": "d7a990e429ed55b3ea1db7d84b60508939176a89d59356704ad2db83a11f680d"
+  },
+  "format": "vens-kpi/1.0/commitments",
+  "set": "inv-prep-v0.7.0-c2.r2"
+}
